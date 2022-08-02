@@ -1,0 +1,176 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container1{
+    background-color:black; 
+    padding: 30px; 
+}
+
+.container1 img{
+    position: absolute;
+    top: 10px;
+    right:80px;
+    width: 100px;
+}
+
+.container1 h1{
+    color: white;
+    line-height: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: cursive; 
+}
+
+
+
+/*CONTAINER 2*/
+
+
+.container2 img{
+    position: absolute;
+    right:113px;
+    top: 200px;
+    width: 20%;
+}
+
+
+.container2 h1{
+    text-align: center;
+    margin-top:140px;
+    font-size: 40px;
+    font-family: sans-serif; 
+    color: #66bfbf;
+}
+.container2 p{
+    text-align: center;
+    color: #40514e;
+    line-height: 2;
+    font-size: 18px;
+}
+
+
+/*CONTAINER 3*/
+
+
+.container3 h2{
+    text-align: center; 
+    padding:50px;
+    font-size: 35px;
+    font-family: sans-serif; 
+    color: #66bfbf;
+}
+
+.container3 img{
+    position: absolute;
+    top:720px;
+    left:30px;
+    width: 9%; 
+}
+
+.container3 h3{
+    margin-left:80px;
+    font-size: 20px;
+    color: #66bfbf; 
+}
+
+.container3 p{
+    margin-left:80px;
+    line-height:2;
+    color: #40514e;
+}
+
+
+.container3 h4{
+    margin-left:30px;
+    margin-top: 50px;
+    font-size: 20px;
+    color: #66bfbf; 
+}
+
+.container3 .dance{
+    margin-left:30px;
+    line-height:2;
+    color: #40514e;
+}
+
+.dancee img{
+    position: absolute;
+    top: 938px;
+    right: 30px;
+}
+
+
+
+/*COONTAINER 4*/
+
+.container4 h2{
+    text-align: center; 
+    padding: 50px;
+    margin-top: -10px;
+    font-size: 35px;
+    font-family: sans-serif; 
+    color: #66bfbf;
+}
+
+.container4 h3{
+    text-align:center;
+    font-size: 21px;
+    color: #66bfbf;
+}
+
+.container4 p{
+    text-align: center;
+    line-height:2;
+    color: #40514e;
+}
+
+.container4 button{
+    margin-top: 20px;
+    width: 30%; 
+    margin-left:120px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    background: #66bfbf;
+    color:white;
+    font-size: 14px;
+    }
+
+.container4 button:hover{
+    cursor: pointer;
+    background: #11999e;
+    transition: 0.3s;
+}
+
+
+
+
+/*BOTTOM SIDE */
+.bottom{
+    position: absolute;
+    margin-top: 60px;
+    height:70px;
+    background: #11999e;
+    
+}
+
+.bottom li{
+    cursor: pointer;
+    display: block;
+    margin-top:10px;
+    float: left;
+    padding:20px;
+    font-size:13px;
+    font-family: sans-serif;
+}
+
+.bottom a{
+    text-decoration: none; 
+    color: white;
+}
+
+.bottom a:hover{
+    color: #66bfbf;
+    transition: 0.3s;
+}
